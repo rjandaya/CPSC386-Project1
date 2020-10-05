@@ -5,6 +5,8 @@
 //  - Madonna Lewis: madonnalewis@csu.fullerton.edu
 //  - Jose Alvarado: xxjose0xx@csu.fullerton.edu
 //  - Fernando Andrade: f.andrade8@csu.fullerton.edu
+// CPSC 386-01
+// Project 1
 
 let settings = {
 	xSize: 40,

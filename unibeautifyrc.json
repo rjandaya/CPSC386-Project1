@@ -1,0 +1,12 @@
+{
+  "JavaScript": {
+    "beautifiers": [
+      "Prettier",
+      "Pretty Diff",
+      "JS-Beautify",
+      "ESLint"
+    ],
+    "wrap_line_length": 80,
+    "max_preserve_newlines": 5
+  }
+}
